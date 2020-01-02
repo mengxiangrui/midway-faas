@@ -7,6 +7,7 @@
     "deepmerge": "^4.2.2"
   },
   "devDependencies": {
+    "@ali/midway-faas-plugin-test-package": "^0.0.4",
     "@types/mocha": "^5.2.5",
     "midway-bin": "1"
   },
